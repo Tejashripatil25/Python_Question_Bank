@@ -1,0 +1,33 @@
+1. How would you confirm that 2 strings have the same identity?
+2. How would you check if each word in a string begins with a capital letter?
+3. Check if a string contains a specific substring
+4. Find the index of the first occurrence of a substring in a string
+5. Count the total number of characters in a string
+6. Count the number of a specific character in a string
+7. Capitalize the first character of a string
+8. What is an f-string and how do you use it?
+9. Interpolate a variable into a string using format()
+10. Check if a string contains only numbers
+11. Split a string on a specific character
+12. Check if a string is composed of all lower case characters
+13. Check if the first character in a string is lowercase
+14. Can an integer be added to a string in Python?
+15. Reverse the string “hello world”
+16. Join a list of strings into a single string, delimited by hyphens (For[a-b-c])
+17. Uppercase or lowercase an entire string
+18. Uppercase first and last character of a string(forEx. FisH)
+19. Check if a string is all uppercase
+20. Give an example of string slicing Slicing a string takes up to 3 arguments, string[start_index:end_index:step].
+21. Convert an integer to a string
+22. Check if a string contains only characters of the alphabet
+23. Replace all instances of a substring in a string
+24. Check if all characters in a string are alphanumeric
+25. Remove whitespace from the left, right or both sides of a string
+29. Check if a string begins with or ends with a specific character?
+30. What is the effect of multiplying a string by 3?
+31. Capitalize the first character of each word in a string
+32. Concatenate two strings
+33. Remove vowels from a string (following word:'hello world')
+34. When would you use rfind()? ex. story = 'The price is right said Bob. The price is right.'
+35.Check if a string begins with or ends with a specific character? | following :city = 'New York'
+
