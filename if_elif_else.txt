@@ -1,0 +1,259 @@
+#---------------------------------------------------------------------------------------------
+ #MOBILE_STORE
+#--------------------------------------------------------------------------------------------
+print("mobile: \n1. samsung \n2. nokia \n3. apple \n4. LG ")
+mobile = input("enter mobile company:")
+if mobile == "samsung":
+    print("Specify ram: \n1. 4GB \n2. 6GB \n3.8GB \n4.12GB")
+    ram = input("enter ram:")
+    if ram == "4GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "6GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "8GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "12GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    else:
+        print("No model is available for this ram")
+elif mobile == "nokia":
+    print("Specify ram: \n1. 4GB \n2. 6GB \n3.8GB \n4.12GB")
+    ram = input("enter ram:")
+    if ram == "4GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "6GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "8GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "12GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    else:
+        print("No model is available for this ram")
+if mobile == "apple":
+    print("Specify ram: \n1. 4GB \n2. 6GB \n3.8GB \n4.12GB")
+    ram = input("enter ram:")
+    if ram == "4GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "6GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "8GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "12GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    else:
+        print("No model is available for this ram")
+elif mobile == "LG":
+    print("Specify ram: \n1. 4GB \n2. 6GB \n3.8GB \n4.12GB")
+    ram = input("enter ram:")
+    if ram == "4GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "6GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "8GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    elif ram == "12GB":
+        print("specify storage: \n1. 16GB \n2. 32GB \n3. 64GB \n4. 128GB")
+        storage = input("enter storage:")
+        if storage == "16GB":
+            print("model is available in 16GB Storage.")
+        elif storage == "32GB":
+            print("model is available in 32GB Storage.")
+        elif storage == "64GB":
+            print("model is available in 64GB Storage.")
+        elif storage == "128GB":
+            print("model is available in 128GB Storage.")
+        else:
+            print("No model is available for this storage")
+    else:
+        print("No model is available for this ram")
+else:
+    print("no mobile available of this company ")
+---------------------------------------------------------------------------------
+Output
+---------------------------------------------------------------------------------
+1. samsung 
+2. nokia 
+3. apple 
+4. LG 
+enter mobile company:samsung
+Specify ram: 
+1. 4GB 
+2. 6GB 
+3.8GB 
+4.12GB
+enter ram:12GB
+specify storage: 
+1. 16GB 
+2. 32GB 
+3. 64GB 
+4. 128GB
+enter storage:128GB
+model is available in 128GB Storage.
+no mobile available of this company 
+
+Process finished with exit code 0
